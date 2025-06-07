@@ -1,4 +1,4 @@
-package com.whatsapp_auth.whatsapp_auth;
+package com.whatsapp.auth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
